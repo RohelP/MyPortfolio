@@ -1,10 +1,9 @@
-import './App.css';
 
 function App() {
 
   return (
   <> 
-    Hellow World!
+    Hello World!
   </>
   )
 }
