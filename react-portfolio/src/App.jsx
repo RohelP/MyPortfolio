@@ -7,7 +7,7 @@ function App() {
   return (
     <div className={styles.App}>
       <Navbar />
-      Hello world
+     
     </div>
   );
 }
